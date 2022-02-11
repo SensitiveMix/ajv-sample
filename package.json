@@ -21,7 +21,7 @@
     "autod": "autod"
   },
   "dependencies": {
-    "ajv": "^6.10.0",
+    "ajv": "^6.12.3",
     "egg-cloud": "^0.2.0",
     "egg-scripts": "^2.10.0"
   },
